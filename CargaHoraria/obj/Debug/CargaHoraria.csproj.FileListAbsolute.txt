@@ -1,0 +1,9 @@
+J:\DESENV\CargaHoraria\CargaHoraria\bin\Debug\CargaHoraria.exe.config
+J:\DESENV\CargaHoraria\CargaHoraria\bin\Debug\CargaHoraria.exe
+J:\DESENV\CargaHoraria\CargaHoraria\bin\Debug\CargaHoraria.pdb
+J:\DESENV\CargaHoraria\CargaHoraria\obj\Debug\CargaHoraria.csprojResolveAssemblyReference.cache
+J:\DESENV\CargaHoraria\CargaHoraria\obj\Debug\CargaHoraria.Properties.Resources.resources
+J:\DESENV\CargaHoraria\CargaHoraria\obj\Debug\CargaHoraria.csproj.GenerateResource.Cache
+J:\DESENV\CargaHoraria\CargaHoraria\obj\Debug\CargaHoraria.exe
+J:\DESENV\CargaHoraria\CargaHoraria\obj\Debug\CargaHoraria.pdb
+J:\DESENV\CargaHoraria\CargaHoraria\obj\Debug\CargaHoraria.View.frmRegistroHoras.resources
